@@ -1,0 +1,10 @@
+[package]
+name = "ruru-rstring-encoding"
+version = "0.1.0"
+authors = ["Michael Coyne <mikeycgto@gmail.com>"]
+
+[lib]
+crate-type = ["dylib"]
+
+[dependencies]
+ruru = "0.9"
